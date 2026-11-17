@@ -1,0 +1,7 @@
+title: Mini IngeHack — Writeups
+description: Challenge writeups from Mini IngeHack, the jeopardy CTF run by Ingenium Club for first-year CS students.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
